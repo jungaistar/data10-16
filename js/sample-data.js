@@ -119,5 +119,5 @@
     };
   }
 
-  return { VERSION: '2026-10-27.2', build: build, BASE: BASE, ITEMS: ITEMS, PLAN: PLAN };
+  return { VERSION: '2026-11-10.1', build: build, BASE: BASE, ITEMS: ITEMS, PLAN: PLAN };
 });
