@@ -184,7 +184,9 @@ window.AUTH_CONFIG = {
     "landing": {
       "company": {
         "name": "건화",
-        "en": "KUNHWA"
+        "en": "KUNHWA",
+        "logo": "images/logo.png",
+        "logoH": 40
       },
       "colors": {
         "navy": "#0d2a5c",
