@@ -8,6 +8,7 @@ window.AUTH_CONFIG = {
   "kakao": true,
   "idleMinutes": 30,
   "localBypass": true,
+  "board": true,
   "site": {
     "title": "원/부자재 미결 방지 사전 관리",
     "summary": "입출고 수불 엑셀과 생산계획으로 자재(강종·규격)별 대당 출고 요율과 차 3개월 예상 출고·월말 재고를 굴려, MOQ·리드타임을 반영한 색 구분 발주 리스트와 장기·불용 재고 지표를 만드는 브라우저 도구입니다.",
@@ -194,7 +195,19 @@ window.AUTH_CONFIG = {
         "brand": "#1a4fa0",
         "brandDark": "#123a78",
         "accent": "#ff9a8f"
-      }
+      },
+      "slides": [
+        {
+          "image": "images/slide-1.jpg"
+        },
+        {
+          "image": "images/slide-2.jpg"
+        },
+        {
+          "image": "images/slide-3.jpg"
+        }
+      ],
+      "heroMode": "slide"
     }
   }
 };
