@@ -16,7 +16,7 @@
   var SCHEMA_VERSION = 1;
   /* 판(版) — index.html 의 ?v= · app.js 의 APP_VERSION · sample-data.js 와 같아야 합니다(scripts/bump-version.mjs 로 함께 올림).
      브라우저가 옛 파일과 새 파일을 섞어 쓰면(GitHub Pages 캐시 10분) 단추와 결과가 어긋날 수 있어, app.js 가 시작할 때 맞춰 봅니다. */
-  var VERSION = '2026-11-11.4';
+  var VERSION = '2026-11-11.6';
   var HORIZON = 3; // 차 3개월 (제출 글)
 
   /* ── 1. 글자·숫자 ───────────────────────────────────────── */
